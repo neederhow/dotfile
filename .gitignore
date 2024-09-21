@@ -12,6 +12,7 @@ zsh/.zsh_history
 !mako/
 !nushell/
 nushell/history.txt
+!nvim/
 !onedriver/
 !qq-flags.conf
 !rofi/
