@@ -20,3 +20,4 @@ nushell/history.txt
 !systemd/user/default.target.wants/ssh-agent.service
 !waybar/
 !wezterm/
+!fastfetch/
