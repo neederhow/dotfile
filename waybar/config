@@ -171,7 +171,7 @@
             "headphone": "",
             "default": ["󰖀","󰕾"," "]
         },
-        "on-click": "pamixer -t",
+        "on-click": "myxer",
         "scroll-step": 1
     },
     "pulseaudio": {
