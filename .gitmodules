@@ -1,3 +1,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = ./nvim
+[submodule "ags"]
+	path = ags
+	url = ./ags
